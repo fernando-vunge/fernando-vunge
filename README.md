@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @fernando-vunge
-- 💻 I’m interested in c, server-side development, game-dev, math,...
-- 🎥 I’m currently learning all possible
-- 🍿 I’m looking improve my skills on Kotlin, C#, and Java!
-- My Perfil on Exercism https://exercism.org/profiles/fernando-vunge
-![a](https://drive.google.com/file/d/1Q2DhOBxb6ZC8WxyXYA9CGZc425EyvXOQ/view?usp=drive_link)(https://drive.google.com/file/d/1Q2DhOBxb6ZC8WxyXYA9CGZc425EyvXOQ/view?usp=drive_link)
+- 👋 Ola, meu nome 'e **Fernando Vunge**
+- 💻 focado em me especializar em, **desenvolvimento web no lado do 🕋 servidor**, **💹 matematica**, **desenvolvimentos de 🕹 🎮jogos e 📲 aplicativos mobile**, ...
+- 🎥 actualmente trabalho com 🐍 python no **desenvolvimento de 🔨 ⚗ api's**, contribuindo para 🏢  [GreeattlyTi](https://www.facebook.com/profile.php?id=100089537509476), e aprendendo a aprender computacao e desenvolvimento 
+- 🍿 procurando sempre 🌟 evouluir minhas **habilidades de comunicao 🙈 🙉 🙊**, e **habilidades de programacao** 👨🏿‍💻 em **Java** ☕, **C++** 💙, **Python** 🐍 e **JavaScript** 🔥 e em tudo que for necessario!
 
-# You can see my first, very small steps, in the repositories below
+---
+
+### Meu perfis em algums site de desafio e exercicios de habilidades em programacao: on Exercism 
+> [EXERCISM { 😊 }](https://exercism.org/profiles/fernando-vunge)
+> 
+> [  LEET CODE 🏹 ](https://leetcode.com/u/CodeVunge/)
+>
+> [ 🌌 CODE WARS ⚔](https://www.codewars.com/users/devunge)
+>
+> [ GEEKS4GEEKS 🤓](https://www.geeksforgeeks.org/user/developenpky/)
+>
+> [💥HACKER RANK💠](https://www.hackerrank.com/profile/developervunge)
+> 
+
+
+### Talvez possa ver alguns do projectos que me comprometi a publicar, abaixo:
 
