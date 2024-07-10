@@ -6,7 +6,7 @@
 ---
 
 ### Meu perfis em algums site de desafio e exercicios de habilidades em programacao:
-> [EXERCISM { 😊 }](https://exercism.org/profiles/fernando-vunge)
+> [EXERCISM { 😊 }](https://exercism.org/profiles/fernando-vunge/solutions)
 > 
 > [  LEET CODE 🏹 ](https://leetcode.com/u/CodeVunge/)
 >
