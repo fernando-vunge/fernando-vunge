@@ -1,7 +1,7 @@
 - 👋 Ola, meu nome 'e **Fernando Vunge**
 - 💻 focado em me especializar em, **desenvolvimento web no lado do 🕋 servidor**, **💹 matematica**, **desenvolvimentos de 🕹 🎮jogos e 📲 aplicativos mobile**, ...
 - 🎥 actualmente trabalho com 🐍 python no **desenvolvimento de 🔨 ⚗ api's**, contribuindo para 🏢  [GreeattlyTi](https://www.facebook.com/profile.php?id=100089537509476), e aprendendo a aprender computacao e desenvolvimento 
-- 🍿 procurando sempre 🌟 evouluir minhas **habilidades de comunicao 🙈 🙉 🙊**, e **habilidades de programacao** 👨🏿‍💻 em **Java** ☕, **C++** 💙, **Python** 🐍 e **JavaScript** 🔥 e em tudo que for necessario!
+- 🍿 procurando sempre 🌟 evoluir minhas **habilidades de comunicao 🙈 🙉 🙊**, e **habilidades de programacao** 👨🏿‍💻 em **Java** ☕, **C++** 💙, **Python** 🐍 e **JavaScript** 🔥 e em tudo que for necessario!
 
 ---
 
