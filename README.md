@@ -21,3 +21,5 @@
 
 ### Talvez possa ver alguns do projectos que me comprometi a publicar, abaixo:
 
+  - [✅] 'completo'
+  - [🔨] 'em desenvolvimento...'
